@@ -3,8 +3,8 @@
 public class Puzzle
 {
     public string Name;
-    public string Question;
-    public string Answer;
+    private string Question;
+    private string Answer;
     
     public Puzzle(string name, string question, string answer)
     {

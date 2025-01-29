@@ -2,7 +2,7 @@
 
 public class World
 {
-    public Dictionary<string, Location> Locations;
+    private Dictionary<string, Location> Locations;
 
     public World()
     {
